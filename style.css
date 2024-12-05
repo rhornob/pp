@@ -1,0 +1,114 @@
+.logo{
+  height: 80px;
+}
+.nav-item{
+ margin-left: 80px;
+}
+.bt{
+  margin-right: 10px;
+}
+.back{
+  background-image: url("https://images.pexels.com/photos/1420440/pexels-photo-1420440.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+
+  background-attachment: fixed;
+ background-repeat: no-repeat;
+ background-size: 100% 100%;
+ height: 500px;
+ width: 600px;
+ border-radius: 20px 20px 20px 20px;
+ margin-left: 50px;
+
+ }
+ .lorm{
+  color: rgb(54, 7, 163);
+  margin-top: 150px;
+  margin-left: 70px;
+
+ }
+ .su{
+  margin-top:100px ;
+  margin-right: 300px;
+ }
+ .po{
+  background-color: rgb(12, 211, 151);
+  color: rgb(230, 226, 235);
+  border-radius: 5px 5px 5px 5px;
+  margin-left: 400px;
+  
+ }
+ .tx{
+  color: rgb(173, 177, 180);
+  margin-top: 20px;}
+  
+ .rem{
+  margin-top: 50px;
+  margin-left: 20px;
+
+}
+.rem2{
+  margin-top: 50px;
+  margin-left: 20px;
+}
+.tio{
+  height: 150px;
+  width: 150px;
+  background-color: rgb(240, 149, 179);
+  border-radius: 10px 10px 10px 10px;
+  margin-left: 30px;
+}
+.tio2{
+  height: 150px;
+  width: 150px;
+  background-color: rgb(233, 230, 53);
+  margin-left:10px;
+  border-radius: 10px 10px 10px 10px;
+}
+.tt{
+  margin-top: 20px;
+  border-radius: 5px 5px 5px 5px;
+  margin-left: 50px;
+}
+.reio54{
+  background-color: black;
+ color: aliceblue;
+ margin-top: 50px;
+ height: 250px;
+ border-radius: 20px 20px 20px 50px;
+ margin-left: 50px;
+}
+.td{
+  margin-left:10px;
+}
+.rot{
+ 
+ margin-top: 10px;}
+ .fru{
+  background-color: black;
+  background-size: 100% 100%;
+  height: 300px;
+  width: 1550px;
+  border-radius: 20px 20px 20px 20px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+ }
+ .ic{
+  color: aliceblue;
+margin-left: 730px;}
+.ex{
+  color: rgb(241, 240, 237);
+  margin-left: 50px;
+}
+.cot{
+  color: rgb(223, 138, 10);
+  margin-left: 710px;
+  margin-top: 30px;
+
+}
+
+  
+  
+
+
+
+
+ 
